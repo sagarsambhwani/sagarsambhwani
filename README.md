@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Sagar Sambhwani 👋
 
-<!--
-**sagarsambhwani/sagarsambhwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Engineer | Data Engineer
 
-Here are some ideas to get you started:
+I focus on building end-to-end AI systems, robust data pipelines, and secure model deployment workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, Go, SQL, JavaScript (React.js), Rust (learning)
+- **AI/ML:** LangChain, LangGraph, Generative AI, Autonomous Agents
+- **Data Engineering:** dbt, Databricks, MongoDB, SQL
+- **DevOps/Tools:** Docker, KitOps, Git, GitHub Actions
+
+### 🚀 Key Projects
+- **AutoFeatureEngineering:** Automatic feature generation and selection pipeline for tabular machine learning.
+- **dbt-test-coverage:** Tooling to measure and report test coverage in dbt projects.
+- **kitops-encryption:** Secure ML model packaging using Go and KitOps.
+- **personality_game:** AI-driven game exploring personality frameworks and LLM orchestration.
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/sagarsambhwani/)
+
+---
+"Building the future of AGI, one commit at a time."
