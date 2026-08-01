@@ -1,6 +1,6 @@
 # Hi there, I'm Sagar Sambhwani 👋
 
-## AI Engineer | Data Engineer
+## AI/Data Engineer
 
 I focus on building end-to-end AI systems, robust data pipelines, and secure model deployment workflows.
 
