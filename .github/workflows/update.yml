@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '0 0 * * *' # Automatically runs daily at midnight UTC
   workflow_dispatch:      # Can be triggered via API dispatch or manually
+  repository_dispatch:    # Can be triggered from external repos via repository_dispatch event
+    types: [update-portfolio]
   push:
     branches: [main]     # Runs whenever main branch is updated
 
