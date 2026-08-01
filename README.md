@@ -18,17 +18,20 @@ I focus on building end-to-end AI systems, robust data pipelines, and secure mod
 ### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 Experimental evaluation framework and benchmark suite for Information Retrieval & RAG systems.
 
-⭐ 1 | Updated 2026-08-01
+⭐ 1 | 🕒 Updated: 2026-08-01 17:46 UTC
+💬 **Latest commit:** `ci: add portfolio update trigger workflow`
 
 ### 2. [Nexus-ML](https://github.com/sagarsambhwani/Nexus-ML)
 Modular machine learning pipeline framework for automated model orchestration and feature engineering.
 
-⭐ 1 | Updated 2026-07-31
+⭐ 1 | 🕒 Updated: 2026-07-31 15:46 UTC
+💬 **Latest commit:** `Merge pull request #4 from sagarsambhwani/dev`
 
 ### 3. [Immersed](https://github.com/sagarsambhwani/Immersed)
 Immersive AI & web application exploring interactive LLM experiences and spatial UI.
 
-⭐ 1 | Updated 2026-07-29
+⭐ 1 | 🕒 Updated: 2026-07-28 09:25 UTC
+💬 **Latest commit:** `release: production release of Immersa AI SaaS frontend redesign`
 <!-- LIVE_PROJECTS_END -->
 
 ### 📫 Connect with me

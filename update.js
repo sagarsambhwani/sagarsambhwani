@@ -22,6 +22,21 @@ async function github(url) {
     return await res.json();
 }
 
+async function getLatestCommit(repoName) {
+    try {
+        const commits = await github(`/repos/${USER}/${repoName}/commits?per_page=1`);
+        if (Array.isArray(commits) && commits.length > 0) {
+            const commitObj = commits[0].commit;
+            const message = commitObj.message ? commitObj.message.split("\n")[0] : "";
+            const date = commitObj.committer ? commitObj.committer.date : (commitObj.author ? commitObj.author.date : null);
+            return { message, date };
+        }
+    } catch (e) {
+        console.error(`Failed to fetch commit for ${repoName}:`, e);
+    }
+    return null;
+}
+
 (async () => {
     try {
         let allRepos = await github(`/users/${USER}/repos?per_page=100`);
@@ -57,12 +72,25 @@ async function github(url) {
             .slice(0, 3);
 
         let liveProjectsMd = "";
-        liveRepos.forEach((repo, i) => {
+        for (let i = 0; i < liveRepos.length; i++) {
+            const repo = liveRepos[i];
             const desc = repo.description || FALLBACK_DESCRIPTIONS[repo.name] || "No description";
+            const commitInfo = await getLatestCommit(repo.name);
+
+            let commitDateStr = repo.pushed_at ? repo.pushed_at.slice(0, 10) : "";
+            if (commitInfo && commitInfo.date) {
+                const d = new Date(commitInfo.date);
+                commitDateStr = d.toISOString().replace("T", " ").slice(0, 16) + " UTC";
+            }
+
             liveProjectsMd += `### ${i + 1}. [${repo.name}](${repo.html_url})\n`;
             liveProjectsMd += `${desc}\n\n`;
-            liveProjectsMd += `⭐ ${repo.stargazers_count} | Updated ${repo.pushed_at.slice(0, 10)}\n\n`;
-        });
+            liveProjectsMd += `⭐ ${repo.stargazers_count} | 🕒 Updated: ${commitDateStr}\n`;
+            if (commitInfo && commitInfo.message) {
+                liveProjectsMd += `💬 **Latest commit:** \`${commitInfo.message}\`\n`;
+            }
+            liveProjectsMd += `\n`;
+        }
 
         // 3. Format Tech Stack section
         const techStackMd = `- **Languages (Most Used):** ${detectedLanguagesStr}\n` +
