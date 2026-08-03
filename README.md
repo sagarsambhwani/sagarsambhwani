@@ -6,7 +6,7 @@ I focus on building end-to-end AI systems, robust data pipelines, and secure mod
 
 ### 🛠️ Tech Stack
 <!-- TECH_STACK_START -->
-- **Languages (Most Used):** Python, JavaScript, Go, Jupyter Notebook
+- **Languages (Most Used):** Python, CSS, Go, Jupyter Notebook
 - **AI/ML:** LangChain, LangGraph, Generative AI, Autonomous Agents
 - **Data Engineering:** dbt, Databricks, MongoDB, SQL
 - **DevOps/Tools:** Docker, KitOps, Git, GitHub Actions
@@ -15,23 +15,23 @@ I focus on building end-to-end AI systems, robust data pipelines, and secure mod
 ### 🚀 Live Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
-Experimental evaluation framework and benchmark suite for Information Retrieval & RAG systems.
+### 1. [Immersed](https://github.com/sagarsambhwani/Immersed)
+The ADHD-Friendly AI Teaching Assistant & Study Companion
 
-⭐ 1 | 🕒 Updated: 2026-08-01 18:18 UTC
-💬 **Latest commit:** `ci: test automated portfolio dispatch trigger`
+⭐ 1 | 🕒 Updated: 2026-08-02 11:36 UTC
+💬 **Latest commit:** `Merge branch 'staging'`
 
-### 2. [Nexus-ML](https://github.com/sagarsambhwani/Nexus-ML)
-Modular machine learning pipeline framework for automated model orchestration and feature engineering.
+### 2. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
+This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
 
-⭐ 1 | 🕒 Updated: 2026-07-31 15:46 UTC
-💬 **Latest commit:** `Merge pull request #4 from sagarsambhwani/dev`
+⭐ 1 | 🕒 Updated: 2026-08-02 10:56 UTC
+💬 **Latest commit:** `docs: update roadmap marking PoC 1.2 and PoC 1.3 as completed`
 
-### 3. [Immersed](https://github.com/sagarsambhwani/Immersed)
-Immersive AI & web application exploring interactive LLM experiences and spatial UI.
+### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
-⭐ 1 | 🕒 Updated: 2026-07-28 09:25 UTC
-💬 **Latest commit:** `release: production release of Immersa AI SaaS frontend redesign`
+⭐ 1 | 🕒 Updated: 2026-08-02 07:29 UTC
+💬 **Latest commit:** `Merge branch 'main' of https://github.com/sagarsambhwani/RetrievLAB`
 <!-- LIVE_PROJECTS_END -->
 
 ### 📫 Connect with me
