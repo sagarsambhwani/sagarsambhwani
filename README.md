@@ -18,8 +18,8 @@ I focus on building end-to-end AI systems, robust data pipelines, and secure mod
 ### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
-⭐ 1 | 🕒 Updated: 2026-08-04 16:01 UTC
-💬 **Latest commit:** `update notify portfolio workflow`
+⭐ 1 | 🕒 Updated: 2026-08-04 16:05 UTC
+💬 **Latest commit:** `add agent guidelines`
 
 ### 2. [Immersed](https://github.com/sagarsambhwani/Immersed)
 The ADHD-Friendly AI Teaching Assistant & Study Companion
