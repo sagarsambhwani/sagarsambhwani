@@ -18,20 +18,20 @@ I focus on building end-to-end AI systems, robust data pipelines, and secure mod
 ### 1. [Immersed](https://github.com/sagarsambhwani/Immersed)
 The ADHD-Friendly AI Teaching Assistant & Study Companion
 
-⭐ 1 | 🕒 Updated: 2026-08-02 11:36 UTC
+⭐ 1 | 🕒 Updated: 2026-08-03 16:44 UTC
 💬 **Latest commit:** `Merge branch 'staging'`
 
-### 2. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
+### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
+
+⭐ 1 | 🕒 Updated: 2026-08-03 13:37 UTC
+💬 **Latest commit:** `add architecture analysis to things_to_remeber notebook notes`
+
+### 3. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
 This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
 
 ⭐ 1 | 🕒 Updated: 2026-08-02 10:56 UTC
 💬 **Latest commit:** `docs: update roadmap marking PoC 1.2 and PoC 1.3 as completed`
-
-### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
-RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
-
-⭐ 1 | 🕒 Updated: 2026-08-02 07:29 UTC
-💬 **Latest commit:** `Merge branch 'main' of https://github.com/sagarsambhwani/RetrievLAB`
 <!-- LIVE_PROJECTS_END -->
 
 ### 📫 Connect with me
