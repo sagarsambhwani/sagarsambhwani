@@ -121,10 +121,3 @@ This repository was created to help understand how fine-tuning works. It is mean
     <img src="https://img.shields.io/badge/Sagar_Sambhwani-AI_%26_Data_Engineer-00f2fe?style=for-the-badge&logo=github&logoColor=white" alt="Sagar Sambhwani Profile" />
   </a>
 </div>
-  <p><b>Designed & Engineered with ⚡ by Sagar Sambhwani</b></p>
-  <p><i>"Architecting intelligent agents & data ecosystems that scale."</i></p>
-  <br/>
-  <a href="https://github.com/sagarsambhwani">
-    <img src="https://img.shields.io/badge/Sagar_Sambhwani-AI_%26_Data_Engineer-00f2fe?style=for-the-badge&logo=github&logoColor=white" alt="Sagar Sambhwani Profile" />
-  </a>
-</div>
