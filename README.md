@@ -1,11 +1,6 @@
 <h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FE&center=true&vcenter=true&width=550&lines=Hi+there%2C+I'm+Sagar+Sambhwani+%F0%9F%90%8B;AI+%26+Data+Engineer+%F0%9F%A4%96;Building+Autonomous+AI+Systems+%E2%9A%A1">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0052CC&center=true&vcenter=true&width=550&lines=Hi+there%2C+I'm+Sagar+Sambhwani+%F0%9F%90%8B;AI+%26+Data+Engineer+%F0%9F%A4%96;Building+Autonomous+AI+Systems+%E2%9A%A1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FE&center=true&vcenter=true&width=550&lines=Hi+there%2C+I'm+Sagar+Sambhwani+%F0%9F%90%8B;AI+%26+Data+Engineer+%F0%9F%A4%96;Building+Autonomous+AI+Systems+%E2%9A%A1" alt="Typing SVG Header" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FE&center=true&vcenter=true&width=550&lines=Hi+there%2C+I'm+Sagar+Sambhwani+%F0%9F%90%8B;AI+%26+Data+Engineer+%F0%9F%A4%96;Building+Autonomous+AI+Systems+%E2%9A%A1" alt="Typing SVG Header" />
 </h1>
-
 
 <p align="center">
   <a href="https://linkedin.com/in/sagar-sambhwani-33a40a304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -96,16 +91,8 @@ This repository was created to help understand how fine-tuning works. It is mean
 
 <div align="center">
   <a href="https://github.com/sagarsambhwani">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=default&hide_border=true&count_private=true">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sagar's GitHub Stats" />
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=tokyonight&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=default&hide_border=true">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </picture>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sagar's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
