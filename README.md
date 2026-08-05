@@ -95,12 +95,10 @@ This repository was created to help understand how fine-tuning works. It is mean
 ### 📊 GitHub Activity & Performance
 
 <div align="center">
-  <a href="https://github.com/sagarsambhwani">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true#gh-dark-mode-only" alt="Sagar's GitHub Stats (Dark)" />
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=default&bg_color=00000000&hide_border=true&count_private=true#gh-light-mode-only" alt="Sagar's GitHub Stats (Light)" />
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true#gh-dark-mode-only" alt="Top Languages (Dark)" />
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=default&bg_color=00000000&hide_border=true#gh-light-mode-only" alt="Top Languages (Light)" />
-  </a>
+
+[![Sagar's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true#gh-dark-mode-only)](https://github.com/sagarsambhwani)[![Sagar's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=default&bg_color=00000000&hide_border=true&count_private=true#gh-light-mode-only)](https://github.com/sagarsambhwani)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true#gh-dark-mode-only)](https://github.com/sagarsambhwani)[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=default&bg_color=00000000&hide_border=true#gh-light-mode-only)](https://github.com/sagarsambhwani)
+
 </div>
 
 <br/>
