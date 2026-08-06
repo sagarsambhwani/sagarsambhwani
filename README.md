@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 1. [Personal-Cognitive-Memory-Engine](https://github.com/sagarsambhwani/Personal-Cognitive-Memory-Engine)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-08-05 14:30 UTC
+💬 **Latest commit:** `Add tests/unit/test_models.py`
+
+### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-08-04 16:17 UTC
 💬 **Latest commit:** `fix notify portfolio payload json encoding`
 
-### 2. [Immersed](https://github.com/sagarsambhwani/Immersed)
+### 3. [Immersed](https://github.com/sagarsambhwani/Immersed)
 The ADHD-Friendly AI Teaching Assistant & Study Companion
 
 ⭐ 1 | 🕒 Updated: 2026-08-03 16:44 UTC
 💬 **Latest commit:** `Merge branch 'staging'`
-
-### 3. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
-This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
-
-⭐ 1 | 🕒 Updated: 2026-08-02 10:56 UTC
-💬 **Latest commit:** `docs: update roadmap marking PoC 1.2 and PoC 1.3 as completed`
 <!-- LIVE_PROJECTS_END -->
 
 <br/>
