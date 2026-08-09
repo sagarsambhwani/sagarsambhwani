@@ -90,26 +90,6 @@ This repository was created to help understand how fine-tuning works. It is mean
 💬 **Latest commit:** `docs: update roadmap marking PoC 1.2 and PoC 1.3 as completed`
 <!-- LIVE_PROJECTS_END -->
 
-<br/>
-
-### 📊 GitHub Activity & Performance
-
-<p align="center">
-  <a href="https://github.com/sagarsambhwani">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=default&bg_color=00000000&title_color=0052cc&icon_color=0052cc&hide_border=true&count_private=true">
-      <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sagarsambhwani&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&count_private=true" alt="Sagar's GitHub Stats" />
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=default&bg_color=00000000&title_color=0052cc&icon_color=0052cc&hide_border=true">
-      <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagarsambhwani&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Top Languages" />
-    </picture>
-  </a>
-</p>
-
-<br/>
 
 ---
 
