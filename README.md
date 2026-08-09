@@ -60,7 +60,7 @@
 </p>
 
 <!-- TECH_STACK_START -->
-- **Languages (Most Used):** Python, CSS, Go, Jupyter Notebook
+- **Languages (Most Used):** Python, Go, Jupyter Notebook
 - **AI/ML:** LangChain, LangGraph, Generative AI, Autonomous Agents
 - **Data Engineering:** dbt, Databricks, MongoDB, SQL
 - **DevOps/Tools:** Docker, KitOps, Git, GitHub Actions
@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 1. [Immersed](https://github.com/sagarsambhwani/Immersed)
+The ADHD-Friendly AI Teaching Assistant & Study Companion
+
+⭐ 1 | 🕒 Updated: 2026-08-08 17:03 UTC
+💬 **Latest commit:** `Merge pull request #8 from sagarsambhwani/development`
+
+### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-08-08 15:09 UTC
 💬 **Latest commit:** `Merge pull request #18 from sagarsambhwani/dev`
 
-### 2. [Nexus-ML](https://github.com/sagarsambhwani/Nexus-ML)
+### 3. [Nexus-ML](https://github.com/sagarsambhwani/Nexus-ML)
 12 Production-Ready Machine Learning & Artificial Intelligence Use Cases in ONE Unified Repository.
 
 ⭐ 1 | 🕒 Updated: 2026-08-06 15:34 UTC
 💬 **Latest commit:** `Merge pull request #6 from sagarsambhwani/dev`
-
-### 3. [Personal-Cognitive-Memory-Engine](https://github.com/sagarsambhwani/Personal-Cognitive-Memory-Engine)
-Research Prototype for an autonomous, belief-centric cognitive memory architecture for AI assistants.
-
-⭐ 1 | 🕒 Updated: 2026-08-05 14:30 UTC
-💬 **Latest commit:** `Add tests/unit/test_models.py`
 <!-- LIVE_PROJECTS_END -->
 
 <br/>
