@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 1. [Personal-Cognitive-Memory-Engine](https://github.com/sagarsambhwani/Personal-Cognitive-Memory-Engine)
+Research Prototype for an autonomous, belief-centric cognitive memory architecture for AI assistants.
+
+⭐ 1 | 🕒 Updated: 2026-08-15 15:54 UTC
+💬 **Latest commit:** `feat(state): add IStateTransitionEngine interface`
+
+### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-08-14 11:26 UTC
 💬 **Latest commit:** `Merge pull request #19 from sagarsambhwani/dev`
 
-### 2. [Nexus-AI](https://github.com/sagarsambhwani/Nexus-AI)
+### 3. [Nexus-AI](https://github.com/sagarsambhwani/Nexus-AI)
 12 Production-Ready Machine Learning & Artificial Intelligence Use Cases in ONE Unified Repository.
 
 ⭐ 1 | 🕒 Updated: 2026-08-13 17:07 UTC
 💬 **Latest commit:** `Merge pull request #10 from sagarsambhwani/dev`
-
-### 3. [Immersed](https://github.com/sagarsambhwani/Immersed)
-The ADHD-Friendly AI Teaching Assistant & Study Companion
-
-⭐ 1 | 🕒 Updated: 2026-08-08 17:03 UTC
-💬 **Latest commit:** `Merge pull request #8 from sagarsambhwani/development`
 <!-- LIVE_PROJECTS_END -->
 
 
