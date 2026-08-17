@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [Personal-Cognitive-Memory-Engine](https://github.com/sagarsambhwani/Personal-Cognitive-Memory-Engine)
+### 1. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
+This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
+
+⭐ 1 | 🕒 Updated: 2026-08-16 12:58 UTC
+💬 **Latest commit:** `docs: add master portfolio README for 7-day LLM fine-tuning and deployment project`
+
+### 2. [Personal-Cognitive-Memory-Engine](https://github.com/sagarsambhwani/Personal-Cognitive-Memory-Engine)
 Research Prototype for an autonomous, belief-centric cognitive memory architecture for AI assistants.
 
 ⭐ 1 | 🕒 Updated: 2026-08-15 15:54 UTC
 💬 **Latest commit:** `feat(state): add IStateTransitionEngine interface`
 
-### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-08-14 11:26 UTC
 💬 **Latest commit:** `Merge pull request #19 from sagarsambhwani/dev`
-
-### 3. [Nexus-AI](https://github.com/sagarsambhwani/Nexus-AI)
-12 Production-Ready Machine Learning & Artificial Intelligence Use Cases in ONE Unified Repository.
-
-⭐ 1 | 🕒 Updated: 2026-08-13 17:07 UTC
-💬 **Latest commit:** `Merge pull request #10 from sagarsambhwani/dev`
 <!-- LIVE_PROJECTS_END -->
 
 
