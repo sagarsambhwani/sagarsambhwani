@@ -74,8 +74,8 @@
 ### 1. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
 This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
 
-⭐ 1 | 🕒 Updated: 2026-08-18 16:20 UTC
-💬 **Latest commit:** `docs(roadmap): link Day 3 SFT deep-dive guide in learning roadmap`
+⭐ 1 | 🕒 Updated: 2026-08-19 16:03 UTC
+💬 **Latest commit:** `docs: add Senior AI Engineer Handbook covering 7 advanced production pillars`
 
 ### 2. [SuitsAI](https://github.com/sagarsambhwani/SuitsAI)
 No description
