@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
+### 1. [Nexus-AI](https://github.com/sagarsambhwani/Nexus-AI)
+12 Production-Ready Machine Learning & Artificial Intelligence Use Cases in ONE Unified Repository.
+
+⭐ 1 | 🕒 Updated: 2026-08-13 17:07 UTC
+💬 **Latest commit:** `Merge pull request #10 from sagarsambhwani/dev`
+
+### 2. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
 This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
 
 ⭐ 1 | 🕒 Updated: 2026-08-19 16:03 UTC
 💬 **Latest commit:** `docs: add Senior AI Engineer Handbook covering 7 advanced production pillars`
 
-### 2. [SuitsAI](https://github.com/sagarsambhwani/SuitsAI)
+### 3. [SuitsAI](https://github.com/sagarsambhwani/SuitsAI)
 No description
 
 ⭐ 0 | 🕒 Updated: 2026-08-17 13:04 UTC
 💬 **Latest commit:** `docs: add AWS Bedrock full-stack defense & alternatives analysis v3`
-
-### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
-RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
-
-⭐ 1 | 🕒 Updated: 2026-08-14 11:26 UTC
-💬 **Latest commit:** `Merge pull request #19 from sagarsambhwani/dev`
 <!-- LIVE_PROJECTS_END -->
 
 
