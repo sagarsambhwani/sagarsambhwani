@@ -60,7 +60,7 @@
 </p>
 
 <!-- TECH_STACK_START -->
-- **Languages (Most Used):** Python, Go, Jupyter Notebook
+- **Languages (Most Used):** Python, Jupyter Notebook, Go
 - **AI/ML:** LangChain, LangGraph, Generative AI, Autonomous Agents
 - **Data Engineering:** dbt, Databricks, MongoDB, SQL
 - **DevOps/Tools:** Docker, KitOps, Git, GitHub Actions
@@ -71,17 +71,17 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 1. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
+This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
+
+⭐ 1 | 🕒 Updated: 2026-08-25 16:28 UTC
+💬 **Latest commit:** `docs(reports): add Day 5 head-to-head evaluation results and report`
+
+### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-08-24 08:38 UTC
 💬 **Latest commit:** `Merge pull request #22 from sagarsambhwani/dev HybridRetriever `
-
-### 2. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
-This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
-
-⭐ 1 | 🕒 Updated: 2026-08-24 08:27 UTC
-💬 **Latest commit:** `docs(reports): add comprehensive Day 4 domain fine-tuning report`
 
 ### 3. [Nexus-AI](https://github.com/sagarsambhwani/Nexus-AI)
 12 Production-Ready Machine Learning & Artificial Intelligence Use Cases in ONE Unified Repository.
