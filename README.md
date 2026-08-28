@@ -74,8 +74,8 @@
 ### 1. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
 This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
 
-⭐ 1 | 🕒 Updated: 2026-08-26 11:05 UTC
-💬 **Latest commit:** `docs: finalize 100% completion on resume readiness evaluation checklist`
+⭐ 1 | 🕒 Updated: 2026-08-27 15:48 UTC
+💬 **Latest commit:** `feat: add Day 8 DPO alignment notebook with 250 pairwise samples and two-stage comparison`
 
 ### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
