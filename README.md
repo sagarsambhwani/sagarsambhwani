@@ -74,20 +74,20 @@
 ### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
-⭐ 1 | 🕒 Updated: 2026-08-24 08:38 UTC
-💬 **Latest commit:** `Merge pull request #22 from sagarsambhwani/dev HybridRetriever `
+⭐ 1 | 🕒 Updated: 2026-08-29 18:07 UTC
+💬 **Latest commit:** `Merge pull request #23 from sagarsambhwani/dev`
 
-### 2. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
+### 2. [SuitsAI](https://github.com/sagarsambhwani/SuitsAI)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-08-29 18:04 UTC
+💬 **Latest commit:** `docs: add formal defense and implementation risk analysis for backend hardening`
+
+### 3. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
 This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
 
 ⭐ 1 | 🕒 Updated: 2026-08-27 15:48 UTC
 💬 **Latest commit:** `feat: add Day 8 DPO alignment notebook with 250 pairwise samples and two-stage comparison`
-
-### 3. [Nexus-AI](https://github.com/sagarsambhwani/Nexus-AI)
-12 Production-Ready Machine Learning & Artificial Intelligence Use Cases in ONE Unified Repository.
-
-⭐ 1 | 🕒 Updated: 2026-08-13 17:07 UTC
-💬 **Latest commit:** `Merge pull request #10 from sagarsambhwani/dev`
 <!-- LIVE_PROJECTS_END -->
 
 
