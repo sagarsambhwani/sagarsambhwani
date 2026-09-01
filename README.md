@@ -74,8 +74,8 @@
 ### 1. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-08-30 17:39 UTC
-💬 **Latest commit:** `docs(rate-limiters): improve README learning flow`
+⭐ 0 | 🕒 Updated: 2026-08-31 13:07 UTC
+💬 **Latest commit:** `feat(skills): add system-design-poc-readme authoring skill`
 
 ### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
