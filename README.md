@@ -71,17 +71,17 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
+### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
+
+⭐ 1 | 🕒 Updated: 2026-09-01 07:19 UTC
+💬 **Latest commit:** `Merge pull request #24 from sagarsambhwani/dev`
+
+### 2. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
 No description
 
 ⭐ 0 | 🕒 Updated: 2026-08-31 13:07 UTC
 💬 **Latest commit:** `feat(skills): add system-design-poc-readme authoring skill`
-
-### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
-RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
-
-⭐ 1 | 🕒 Updated: 2026-08-29 18:07 UTC
-💬 **Latest commit:** `Merge pull request #23 from sagarsambhwani/dev`
 
 ### 3. [SuitsAI](https://github.com/sagarsambhwani/SuitsAI)
 No description
