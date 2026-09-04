@@ -74,8 +74,8 @@
 ### 1. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-09-02 17:41 UTC
-💬 **Latest commit:** `feat(demos): add single-file integration, LiteLLM features, and multi-provider verification`
+⭐ 0 | 🕒 Updated: 2026-09-03 17:14 UTC
+💬 **Latest commit:** `fix(phoenix): launch Arize Phoenix via dedicated server process to resolve Windows SQLite file lock`
 
 ### 2. [llm-serving-stack](https://github.com/sagarsambhwani/llm-serving-stack)
 No description
