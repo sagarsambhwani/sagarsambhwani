@@ -71,17 +71,17 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 1. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-09-05 17:38 UTC
+💬 **Latest commit:** `docs(roadmap): add Sprint 1 specification for semantic vector caching engine`
+
+### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-09-01 09:11 UTC
 💬 **Latest commit:** `Merge pull request #25 from sagarsambhwani/dev`
-
-### 2. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
-No description
-
-⭐ 0 | 🕒 Updated: 2026-09-03 17:14 UTC
-💬 **Latest commit:** `fix(phoenix): launch Arize Phoenix via dedicated server process to resolve Windows SQLite file lock`
 
 ### 3. [llm-serving-stack](https://github.com/sagarsambhwani/llm-serving-stack)
 No description
