@@ -74,8 +74,8 @@
 ### 1. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-09-05 17:38 UTC
-💬 **Latest commit:** `docs(roadmap): add Sprint 1 specification for semantic vector caching engine`
+⭐ 0 | 🕒 Updated: 2026-09-06 10:39 UTC
+💬 **Latest commit:** `docs(roadmap): add Sprint 2 specification for enterprise ingestion, background workers, and tri-brid RAG`
 
 ### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
