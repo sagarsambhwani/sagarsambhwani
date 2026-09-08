@@ -71,17 +71,17 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
+### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
+
+⭐ 1 | 🕒 Updated: 2026-09-07 16:01 UTC
+💬 **Latest commit:** `Merge pull request #26 from sagarsambhwani/dev`
+
+### 2. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
 No description
 
 ⭐ 0 | 🕒 Updated: 2026-09-06 10:39 UTC
 💬 **Latest commit:** `docs(roadmap): add Sprint 2 specification for enterprise ingestion, background workers, and tri-brid RAG`
-
-### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
-RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
-
-⭐ 1 | 🕒 Updated: 2026-09-01 09:11 UTC
-💬 **Latest commit:** `Merge pull request #25 from sagarsambhwani/dev`
 
 ### 3. [llm-serving-stack](https://github.com/sagarsambhwani/llm-serving-stack)
 No description
