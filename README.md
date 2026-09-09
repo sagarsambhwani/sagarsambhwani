@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
-RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
+### 1. [llm-serving-stack](https://github.com/sagarsambhwani/llm-serving-stack)
+No description
 
-⭐ 1 | 🕒 Updated: 2026-09-07 16:01 UTC
-💬 **Latest commit:** `Merge pull request #26 from sagarsambhwani/dev`
+⭐ 0 | 🕒 Updated: 2026-09-08 19:00 UTC
+💬 **Latest commit:** `docs: add ungated and uncensored models (Hermes 3, Dolphin, Abliterated) to roadmap and model matrix`
 
 ### 2. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-09-06 10:39 UTC
-💬 **Latest commit:** `docs(roadmap): add Sprint 2 specification for enterprise ingestion, background workers, and tri-brid RAG`
+⭐ 0 | 🕒 Updated: 2026-09-08 16:28 UTC
+💬 **Latest commit:** `feat(cache): implement Sprint 1 Semantic Vector Caching Engine with ONNX embeddings, cosine matching, LRU/TTL, and gateway integration`
 
-### 3. [llm-serving-stack](https://github.com/sagarsambhwani/llm-serving-stack)
-No description
+### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
-⭐ 0 | 🕒 Updated: 2026-09-01 15:01 UTC
-💬 **Latest commit:** `feat(cli): add interactive terminal chatbot with multi-turn memory and token streaming`
+⭐ 1 | 🕒 Updated: 2026-09-07 16:01 UTC
+💬 **Latest commit:** `Merge pull request #26 from sagarsambhwani/dev`
 <!-- LIVE_PROJECTS_END -->
 
 
