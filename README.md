@@ -74,20 +74,20 @@
 ### 1. [llm-serving-stack](https://github.com/sagarsambhwani/llm-serving-stack)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-09-08 19:00 UTC
-💬 **Latest commit:** `docs: add ungated and uncensored models (Hermes 3, Dolphin, Abliterated) to roadmap and model matrix`
+⭐ 0 | 🕒 Updated: 2026-09-09 16:01 UTC
+💬 **Latest commit:** `fix(cli): restore ANSI color code variables in chat.py`
 
-### 2. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
-No description
-
-⭐ 0 | 🕒 Updated: 2026-09-08 16:28 UTC
-💬 **Latest commit:** `feat(cache): implement Sprint 1 Semantic Vector Caching Engine with ONNX embeddings, cosine matching, LRU/TTL, and gateway integration`
-
-### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-09-07 16:01 UTC
 💬 **Latest commit:** `Merge pull request #26 from sagarsambhwani/dev`
+
+### 3. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-09-08 16:28 UTC
+💬 **Latest commit:** `feat(cache): implement Sprint 1 Semantic Vector Caching Engine with ONNX embeddings, cosine matching, LRU/TTL, and gateway integration`
 <!-- LIVE_PROJECTS_END -->
 
 
