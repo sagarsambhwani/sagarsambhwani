@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 1. [SuitsAI](https://github.com/sagarsambhwani/SuitsAI)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-09-19 18:23 UTC
+💬 **Latest commit:** `docs: add master stress-testing plan, hypotheses, and expected results`
+
+### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-09-18 06:18 UTC
 💬 **Latest commit:** `Merge pull request #28 from sagarsambhwani/dev`
 
-### 2. [Nexus-AI](https://github.com/sagarsambhwani/Nexus-AI)
+### 3. [Nexus-AI](https://github.com/sagarsambhwani/Nexus-AI)
 12 Production-Ready Machine Learning & Artificial Intelligence Use Cases in ONE Unified Repository.
 
 ⭐ 1 | 🕒 Updated: 2026-09-12 17:03 UTC
 💬 **Latest commit:** `Merge branch 'main' of https://github.com/sagarsambhwani/Nexus-AI`
-
-### 3. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
-No description
-
-⭐ 0 | 🕒 Updated: 2026-09-11 17:38 UTC
-💬 **Latest commit:** `feat(rag): implement Sprint 2 Enterprise Ingestion, Background Workers & Tri-Brid RAG`
 <!-- LIVE_PROJECTS_END -->
 
 
