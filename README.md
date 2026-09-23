@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
+### 1. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
+This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
+
+⭐ 1 | 🕒 Updated: 2026-09-22 13:36 UTC
+💬 **Latest commit:** `docs(notebooks): add SFT vs DPO vs RL practical case studies and decision framework`
+
+### 2. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
 No description
 
 ⭐ 0 | 🕒 Updated: 2026-09-21 18:48 UTC
 💬 **Latest commit:** `docs(roadmap): mark PoC 2.1 consistent hashing as completed`
 
-### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-09-18 06:18 UTC
 💬 **Latest commit:** `Merge pull request #28 from sagarsambhwani/dev`
-
-### 3. [SuitsAI](https://github.com/sagarsambhwani/SuitsAI)
-No description
-
-⭐ 0 | 🕒 Updated: 2026-09-19 18:23 UTC
-💬 **Latest commit:** `docs: add master stress-testing plan, hypotheses, and expected results`
 <!-- LIVE_PROJECTS_END -->
 
 
