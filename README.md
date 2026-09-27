@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
+### 1. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-09-23 17:13 UTC
-💬 **Latest commit:** `docs(roadmap): mark PoC 2.2 bloom filter as completed`
+⭐ 0 | 🕒 Updated: 2026-09-26 15:50 UTC
+💬 **Latest commit:** `refactor: apply Strategy, Adapter, and Facade design patterns`
 
-### 2. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
-This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
-
-⭐ 1 | 🕒 Updated: 2026-09-22 13:36 UTC
-💬 **Latest commit:** `docs(notebooks): add SFT vs DPO vs RL practical case studies and decision framework`
-
-### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 2. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-09-18 06:18 UTC
 💬 **Latest commit:** `Merge pull request #28 from sagarsambhwani/dev`
+
+### 3. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-09-23 17:13 UTC
+💬 **Latest commit:** `docs(roadmap): mark PoC 2.2 bloom filter as completed`
 <!-- LIVE_PROJECTS_END -->
 
 
