@@ -74,14 +74,14 @@
 ### 1. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-09-27 18:16 UTC
-💬 **Latest commit:** `docs: add comprehensive 5-phase architectural roadmap in roadmap/version1.md`
+⭐ 0 | 🕒 Updated: 2026-09-28 15:37 UTC
+💬 **Latest commit:** `docs: add defensive RAG taxonomy and failure mode scope in roadmap/defensive_scope.md`
 
 ### 2. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-09-27 16:10 UTC
-💬 **Latest commit:** `docs(roadmap): mark PoC 3.1 snowflake id generator as completed`
+⭐ 0 | 🕒 Updated: 2026-09-28 13:58 UTC
+💬 **Latest commit:** `docs(roadmap): mark PoC 3.2 distributed lock as completed`
 
 ### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
