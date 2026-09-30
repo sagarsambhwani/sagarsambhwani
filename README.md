@@ -74,14 +74,14 @@
 ### 1. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-09-28 15:37 UTC
-💬 **Latest commit:** `docs: add defensive RAG taxonomy and failure mode scope in roadmap/defensive_scope.md`
+⭐ 0 | 🕒 Updated: 2026-09-29 16:07 UTC
+💬 **Latest commit:** `feat(rag): add non-linear structure detector for tables and diagram code fences`
 
 ### 2. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-09-28 13:58 UTC
-💬 **Latest commit:** `docs(roadmap): mark PoC 3.2 distributed lock as completed`
+⭐ 0 | 🕒 Updated: 2026-09-29 16:05 UTC
+💬 **Latest commit:** `docs(roadmap): mark PoC 4.1 thundering herd as completed`
 
 ### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
