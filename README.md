@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
-No description
-
-⭐ 0 | 🕒 Updated: 2026-09-29 16:07 UTC
-💬 **Latest commit:** `feat(rag): add non-linear structure detector for tables and diagram code fences`
-
-### 2. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
-No description
-
-⭐ 0 | 🕒 Updated: 2026-09-29 16:05 UTC
-💬 **Latest commit:** `docs(roadmap): mark PoC 4.1 thundering herd as completed`
-
-### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
+### 1. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
 RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
 
 ⭐ 1 | 🕒 Updated: 2026-09-18 06:18 UTC
 💬 **Latest commit:** `Merge pull request #28 from sagarsambhwani/dev`
+
+### 2. [Nexus-AI](https://github.com/sagarsambhwani/Nexus-AI)
+12 Production-Ready Machine Learning & Artificial Intelligence Use Cases in ONE Unified Repository.
+
+⭐ 1 | 🕒 Updated: 2026-09-30 16:01 UTC
+💬 **Latest commit:** `Merge pull request #11 from sagarsambhwani/dev`
+
+### 3. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-09-30 14:18 UTC
+💬 **Latest commit:** `docs(roadmap): mark PoC 4.2 multi-tier cache as completed`
 <!-- LIVE_PROJECTS_END -->
 
 
