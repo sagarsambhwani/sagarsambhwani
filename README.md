@@ -60,7 +60,7 @@
 </p>
 
 <!-- TECH_STACK_START -->
-- **Languages (Most Used):** Python, Jupyter Notebook, Go
+- **Languages (Most Used):** Python, Jupyter Notebook, TypeScript, Go
 - **AI/ML:** LangChain, LangGraph, Generative AI, Autonomous Agents
 - **Data Engineering:** dbt, Databricks, MongoDB, SQL
 - **DevOps/Tools:** Docker, KitOps, Git, GitHub Actions
@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
+### 1. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-10-05 14:31 UTC
-💬 **Latest commit:** `docs(roadmap): mark PoC 5.3 saga pattern orchestrator as completed`
+⭐ 0 | 🕒 Updated: 2026-10-06 16:40 UTC
+💬 **Latest commit:** `Update README: remove author attribution`
 
-### 2. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
+### 2. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
+This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
+
+⭐ 1 | 🕒 Updated: 2026-10-06 19:02 UTC
+💬 **Latest commit:** `docs: add Day 9 ORPO and KTO technical alignment report`
+
+### 3. [SuitsAI](https://github.com/sagarsambhwani/SuitsAI)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-10-04 18:17 UTC
-💬 **Latest commit:** `feat(audio): add decoupled AudioService, VAD engine, in-memory Groq Whisper transcriber, and tests`
-
-### 3. [RetrievLAB](https://github.com/sagarsambhwani/RetrievLAB)
-RetrievLab is a research-oriented framework for building, evaluating, and understanding modern retrieval systems from first principles.
-
-⭐ 1 | 🕒 Updated: 2026-10-01 05:01 UTC
-💬 **Latest commit:** `Merge pull request #29 from sagarsambhwani/dev`
+⭐ 0 | 🕒 Updated: 2026-10-06 13:19 UTC
+💬 **Latest commit:** `docs: add empirical failure catalog and vulnerability matrix from adversarial stress-testing`
 <!-- LIVE_PROJECTS_END -->
 
 
