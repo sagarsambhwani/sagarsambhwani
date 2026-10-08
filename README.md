@@ -74,8 +74,8 @@
 ### 1. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-10-06 16:40 UTC
-💬 **Latest commit:** `Update README: remove author attribution`
+⭐ 0 | 🕒 Updated: 2026-10-07 17:06 UTC
+💬 **Latest commit:** `fix(auth): implement WebAuthn login/register options and credential routes`
 
 ### 2. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
 This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
