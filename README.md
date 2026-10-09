@@ -71,17 +71,17 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
-No description
-
-⭐ 0 | 🕒 Updated: 2026-10-07 17:06 UTC
-💬 **Latest commit:** `fix(auth): implement WebAuthn login/register options and credential routes`
-
-### 2. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
+### 1. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
 This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
 
-⭐ 1 | 🕒 Updated: 2026-10-06 19:02 UTC
-💬 **Latest commit:** `docs: add Day 9 ORPO and KTO technical alignment report`
+⭐ 1 | 🕒 Updated: 2026-10-08 19:11 UTC
+💬 **Latest commit:** `docs(track1-report): document remote kernel artifact export recipe with temp.sh stream in report`
+
+### 2. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-10-08 11:36 UTC
+💬 **Latest commit:** `fix(security): remove hardcoded credentials and enforce auth on summary endpoints`
 
 ### 3. [SuitsAI](https://github.com/sagarsambhwani/SuitsAI)
 No description
