@@ -74,8 +74,8 @@
 ### 1. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
 This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
 
-⭐ 1 | 🕒 Updated: 2026-10-08 19:11 UTC
-💬 **Latest commit:** `docs(track1-report): document remote kernel artifact export recipe with temp.sh stream in report`
+⭐ 1 | 🕒 Updated: 2026-10-09 16:38 UTC
+💬 **Latest commit:** `docs(legalbench): add Stanford LegalBench real-world CPU evaluation empirical report`
 
 ### 2. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
 No description
