@@ -74,8 +74,8 @@
 ### 1. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
 This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
 
-⭐ 1 | 🕒 Updated: 2026-10-10 10:29 UTC
-💬 **Latest commit:** `docs(ontology): add comprehensive Phase 7 README with Track 1 vs Track 2 benchmark results`
+⭐ 1 | 🕒 Updated: 2026-10-11 13:59 UTC
+💬 **Latest commit:** `docs(models): add model artifacts directory structure guide`
 
 ### 2. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
 No description
