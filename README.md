@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
+### 1. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-10-16 19:13 UTC
+💬 **Latest commit:** `feat(audio): implement Silero ML VAD engine and terminal conversational voice agent`
+
+### 2. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
 No description
 
 ⭐ 0 | 🕒 Updated: 2026-10-15 09:52 UTC
 💬 **Latest commit:** `docs(roadmap): mark PoC 6.2 inverted index as completed and expand curriculum to 14 domains`
 
-### 2. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
+### 3. [Fine-Tuning-PoCs](https://github.com/sagarsambhwani/Fine-Tuning-PoCs)
 This repository was created to help understand how fine-tuning works. It is meant to be a learning space where I can explore and document practical examples of fine-tuning different models.
 
 ⭐ 1 | 🕒 Updated: 2026-10-11 13:59 UTC
 💬 **Latest commit:** `docs(models): add model artifacts directory structure guide`
-
-### 3. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
-A modern, self-hosted personal and household finance tracker designed for complete privacy and control over your financial data.
-
-⭐ 0 | 🕒 Updated: 2026-10-08 11:36 UTC
-💬 **Latest commit:** `fix(security): remove hardcoded credentials and enforce auth on summary endpoints`
 <!-- LIVE_PROJECTS_END -->
 
 
