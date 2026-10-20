@@ -71,17 +71,17 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
+### 1. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-10-19 18:14 UTC
+💬 **Latest commit:** `docs(roadmap): mark PoC 9.3 immutable audit trail and tamper-evident ledger as completed`
+
+### 2. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
 A modern, self-hosted personal and household finance tracker designed for complete privacy and control over your financial data.
 
 ⭐ 0 | 🕒 Updated: 2026-10-18 16:23 UTC
 💬 **Latest commit:** `fix(categories): assign coffee and package emoji icons to Coffee and Miscellaneous`
-
-### 2. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
-No description
-
-⭐ 0 | 🕒 Updated: 2026-10-18 12:22 UTC
-💬 **Latest commit:** `docs(roadmap): mark PoC 9.2 cell-based architecture partitioning as completed`
 
 ### 3. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
 No description
