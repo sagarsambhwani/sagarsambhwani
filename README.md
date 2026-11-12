@@ -71,23 +71,23 @@
 ### ⚡ Live & Featured Projects
 
 <!-- LIVE_PROJECTS_START -->
-### 1. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
+### 1. [Chatbot](https://github.com/sagarsambhwani/Chatbot)
+No description
+
+⭐ 0 | 🕒 Updated: 2026-11-11 18:32 UTC
+💬 **Latest commit:** `feat: implement conversational intelligence layer (analyzer, planner, schemas, prompts, tests)`
+
+### 2. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
 No description
 
 ⭐ 0 | 🕒 Updated: 2026-10-19 18:14 UTC
 💬 **Latest commit:** `docs(roadmap): mark PoC 9.3 immutable audit trail and tamper-evident ledger as completed`
 
-### 2. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
+### 3. [Finance-tracker](https://github.com/sagarsambhwani/Finance-tracker)
 A modern, self-hosted personal and household finance tracker designed for complete privacy and control over your financial data.
 
 ⭐ 0 | 🕒 Updated: 2026-10-18 16:23 UTC
 💬 **Latest commit:** `fix(categories): assign coffee and package emoji icons to Coffee and Miscellaneous`
-
-### 3. [Framework-maxxing](https://github.com/sagarsambhwani/Framework-maxxing)
-No description
-
-⭐ 0 | 🕒 Updated: 2026-10-16 19:13 UTC
-💬 **Latest commit:** `feat(audio): implement Silero ML VAD engine and terminal conversational voice agent`
 <!-- LIVE_PROJECTS_END -->
 
 
