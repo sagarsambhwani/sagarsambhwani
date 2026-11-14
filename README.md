@@ -74,8 +74,8 @@
 ### 1. [Chatbot](https://github.com/sagarsambhwani/Chatbot)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-11-12 15:05 UTC
-💬 **Latest commit:** `chore(benchmark): update benchmark run results after rag fix`
+⭐ 0 | 🕒 Updated: 2026-11-13 11:08 UTC
+💬 **Latest commit:** `refactor: eliminate dead files, purge keyword regexes, slim voice prompt, and enable in-memory STT`
 
 ### 2. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
 No description
