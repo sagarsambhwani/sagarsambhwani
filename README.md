@@ -74,8 +74,8 @@
 ### 1. [Chatbot](https://github.com/sagarsambhwani/Chatbot)
 No description
 
-⭐ 0 | 🕒 Updated: 2026-11-14 18:18 UTC
-💬 **Latest commit:** `feat: migrate backend to FastAPI and SQLite for multi-turn session persistence and async SSE streaming`
+⭐ 0 | 🕒 Updated: 2026-11-15 13:39 UTC
+💬 **Latest commit:** `fix(vram): suppress subprocess window flashing on Windows with CREATE_NO_WINDOW and 15s TTL cache`
 
 ### 2. [SYSbySAAS](https://github.com/sagarsambhwani/SYSbySAAS)
 No description
